@@ -8,5 +8,6 @@ people. Communicating with normal people has always been a barrier for them. The
    
 This project aims to train an AI model which when shown real-time video of a hand sign,shows the output of a particular sign in the form of text.
 
-* hand_sign_cnn images: collected 1200 images using google teachable machine
+
+hand_sign_cnn images: collected 1200 images using google teachable machine
 
