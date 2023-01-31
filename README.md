@@ -15,3 +15,13 @@ hand_sign_cnn images: collected 1200 images using google teachable machine
 
 The purpose here is to segement out the object from background.There are various image segemntation technique, one which i have used is thresholding technique.
 
+
+`CNN model.ipynb`
+
+built cnn model and trained.
+
+
+How to run:
+
+Run `opencv_detect.py`
+
