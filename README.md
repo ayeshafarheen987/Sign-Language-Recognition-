@@ -24,5 +24,5 @@ built cnn model and trained.
 How to run:
 
 Run `opencv_detect.py`
-![alt text]("C:/Users/LENOVO X1 YOGA/Downloads/sign.png")
+![Screenshot](sign.png)
 
