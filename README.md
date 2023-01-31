@@ -11,5 +11,5 @@ This project aims to train an AI model which when shown real-time video of a han
 
 hand_sign_cnn images: collected 1200 images using google teachable machine
 
-! Data-preprocessing.ipynb
+~ Data-preprocessing.ipynb
 
